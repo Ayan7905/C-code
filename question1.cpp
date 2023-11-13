@@ -26,5 +26,6 @@ int main(){
     for(int num:arr){
         cout<<num<<" ";
     }
+    cout<<"abcccc"<<endl;
     return 0;
 }
